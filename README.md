@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Eduardo Banjar.
+## Hi! I'm Carlos Eduardo Banjar.
 
 <div> 
   <a href="https://github.com/carloseduardobanjar">
