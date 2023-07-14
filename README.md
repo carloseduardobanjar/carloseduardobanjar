@@ -2,8 +2,8 @@
 
 <div> 
   <a href="https://github.com/carloseduardobanjar">
-  <img height="180em" src="https://github-readme-stats-mu-nine-86.vercel.app/api?username=carloseduardobanjar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-mu-nine-86.vercel.app/api/top-langs/?username=carloseduardobanjar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://readme-stats-git-main-14g0.vercel.app/api?username=carloseduardobanjar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://readme-stats-git-main-14g0.vercel.app/api/top-langs/?username=carloseduardobanjar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
